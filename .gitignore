@@ -2,4 +2,7 @@
 # virtual envs
 backend/backend_venv
 
+# pycache
+**/__pycache__/
+
 notes.md
